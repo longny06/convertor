@@ -1,0 +1,68 @@
+70000 : Seventy Thousand Riel : 17.50 $
+40000000 : Forty Million Riel : 10,000 $
+4000 : Four Thousand Riel : 1 $
+9000000 : Nine Million Riel : 2,250 $
+1234567 : One Million Two Hundred Thirty Four Thousand Five Hundred Sixty Seven Riel : 308.64 $
+4000 : Four Thousand Riel : 1 $
+4000 : Four Thousand Riel : 1 $ : បួន ពាន់ រៀល
+40000000 : Forty Million Riel : 10,000 $ : សែសិប លាន រៀល
+12000 : Twelve Thousand Riel : 3 $ : ដប់ពីរ ពាន់ រៀល
+10000000 : Ten Million Riel : 2,500 $ : ដប់ លាន រៀល
+40000000 : Forty Million Riel : 10,000 $ : សែសិប លាន រៀល
+4500 : Four Thousand Five Hundred Riel : 1.13 $ : បួន ពាន់ ប្រាំ រយ រៀល
+6700 : Six Thousand Seven Hundred Riel : 1.68 $ : ប្រាំមួយ ពាន់ ប្រាំពីរ រយ រៀល
+4000 : Four Thousand Riel : 1 $ : បួន ពាន់ រៀល
+1000000 : One Million Riel : 250 $ : មួយ លាន រៀល
+1000500000 : One Billion Five Hundred Thousand Riel : 250,125 $ : មួយ ប៊ីលាន ប្រាំ រយ ពាន់ រៀល
+4000 : Four Thousand Riel : 1 $ : បួន ពាន់ រៀល
+4000 : Four Thousand Riel : 1 $ : បួន ពាន់ រៀល
+4000 : Four Thousand Riel : 1 $ : បួន ពាន់ រៀល
+4000 : 
+Four Thousand Riel : 
+1 $ : 
+បួន ពាន់ រៀល
+3000 : 
+Three Thousand Riel : 
+0.75 $ : 
+បី ពាន់ រៀល
+4000 : 
+Four Thousand Riel : 
+1 $ : 
+បួន ពាន់ រៀល
+4000 : 
+Four Thousand Riel : 
+បួន ពាន់ រៀល : 
+1 $
+4000 
+:Four Thousand Riel 
+:បួន ពាន់ រៀល 
+:1 $
+4000 
+: Four Thousand Riel 
+: បួន ពាន់ រៀល 
+: 1 $
+4000 
+: Four Thousand Riel
+: បួន ពាន់ រៀល
+: 1 $
+400 
+: Four Hundred Riel
+: បួន រយ រៀល
+: 0.10 $
+4000 : Four Thousand Riel : បួន ពាន់ រៀល : 1 $
+5000 
+: Five Thousand Riel 
+: ប្រាំ ពាន់ រៀល 
+: 1.25 $
+4000 
+: Four Thousand Riel 
+: បួន ពាន់ រៀល 
+: 1 $
+3000 
+: Three Thousand Riel 
+: បី ពាន់ រៀល 
+: 0.75 $
+12345678 
+: Twelve Million Three Hundred Forty Five Thousand Six Hundred Seventy Eight Riel 
+: ដប់ពីរ លាន បី រយ សែសិប ប្រាំ ពាន់ ប្រាំមួយ រយ ចិតសិប ប្រាំបី រៀល 
+: 3,086.42 $
